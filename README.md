@@ -12,7 +12,7 @@
 
 <b>مستندات این وب سرویس:</b> <a href='https://api.ineo-team.ir/docs.php?apiName=github' target='_blank'>مشاهده</a>
 
-<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/000' target='_blank'>@iNeoTeam/000</a>
+<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/163' target='_blank'>@iNeoTeam/163</a>
 -------------------------
 
 # مثال ها:
