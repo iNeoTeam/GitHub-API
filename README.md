@@ -10,9 +10,9 @@
 
 <b>آیدی کانال:</b> <a href='https://t.me/iNeoTeam' target='_blank'>@iNeoTeam</a>
 
-<b>مستندات این وب سرویس:</b> <a href='https://api.ineo-team.ir/docs.php?apiName=github' target='_blank'>مشاهده</a>
+<b>مستندات این وب سرویس:</b> <a href='https://docs.ineo-team.ir/github' target='_blank'>مشاهده</a>
 
-<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoTeam/163' target='_blank'>@iNeoTeam/163</a>
+<b>پست مربوط به این وب سرویس:</b> <a href='https://t.me/iNeoAPI/16' target='_blank'>@iNeoTeam/163</a>
 -------------------------
 
 # مثال ها:
